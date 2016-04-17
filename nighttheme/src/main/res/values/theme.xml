@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DefaultTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="bgColor">@color/white</item>
+        <item name="textColor">@color/dark</item>
+        <item name="toolbarColor">@color/colorPrimary</item>
+    </style>
+
+    <style name="NightTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="bgColor">@color/dark</item>
+        <item name="textColor">@color/white</item>
+        <item name="toolbarColor">@color/dark</item>
+    </style>
+</resources>
